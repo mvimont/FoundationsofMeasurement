@@ -1,6 +1,8 @@
 # FoundationsofMeasurement
 Transcription of Krantz et al Foundation of Measurement to Python:
 
+https://books.google.com/books?id=aZ3bmPjCc9QC&source=gbs_similarbooks
+
 Purpose: Build out the building blocks of scientific measurement and mathematics into Python code as a fun excercise.
 
 Guidelines:
