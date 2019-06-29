@@ -21,7 +21,7 @@ class Ordinal:
         return False
 
     def is_equivalent(self, a, b):
-        if a and b and not a > b and not a < b:
+        if not a > b and not a < b:
             return True
         return False
 

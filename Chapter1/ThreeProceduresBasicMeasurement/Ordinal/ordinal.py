@@ -19,6 +19,7 @@ def is_equivalent(a, b):
         return True
     return False
 
+
 #We assign to first rod any number, a larger rod a larger number, a smaller rod a smaller, etc.
 #In event a ~ b.Procedure for ordinal measuremnt is only suitable in the event precision yields allows for it
 
